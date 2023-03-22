@@ -26,7 +26,7 @@ const StyledApp = styled.div`
 
     :after {
       content: "alpha";
-      background-color: #59e692;
+      background-color: #1800a3;
       color: #101d46;
       text-transform: uppercase;
       font-size: 10px;
